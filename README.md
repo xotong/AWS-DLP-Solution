@@ -48,8 +48,8 @@ Start applying changes and confirming it by entering yes
 
 ## Monitoring and Maintenance 🛠️
 
-### Monitor: Use AWS Console or CLI to monitor Macie findings, SecurityHub alerts, and SNS notifications.
-### Maintain: Regularly update Terraform configurations for any changes in AWS infrastructure or security policies.
+ Monitor: Use AWS Console or CLI to monitor Macie findings, SecurityHub alerts, and SNS notifications.
+ Maintain: Regularly update Terraform configurations for any changes in AWS infrastructure or security policies.
 
 ## Contributing
-### If you wish to contribute to this project, fork the repository, make your changes, and submit a pull request.
+ If you wish to contribute to this project, fork the repository, make your changes, and submit a pull request.
